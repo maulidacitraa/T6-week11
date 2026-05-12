@@ -1,5 +1,5 @@
-## Nama: Maulida Citra Illiyin
-## NIM: F1D02310145
+### Nama: Maulida Citra Illiyin
+### NIM: F1D02310145
 
 Tugas ini merupakan pengembangan aplikasi desktop Post Manager dengan mengintegrasikan frontend berbasis Python menggunakan PySide6 dan backend berbasis Laravel REST API.
 
