@@ -1,3 +1,7 @@
+# Nama  : Maulida Citra Illiyyin
+# NIM   : F1D02310145
+# Kelas : Pemrograman Visual C
+
 from PySide6.QtWidgets import (QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, 
                              QPushButton, QTableWidget, QTableWidgetItem, 
                              QMessageBox, QInputDialog, QHeaderView, QTextEdit, QLabel, QLineEdit)
